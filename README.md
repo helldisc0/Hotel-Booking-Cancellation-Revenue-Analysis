@@ -31,7 +31,7 @@ a predictive model and interactive Tableau dashboard.
 [Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
 ## Dashboard
-[View Interactive Tableau Dashboard](WIP) 
+Tableau Dashboard: (WIP)
 
 ## Methodology Note
 Revenue at risk is estimated as ADR multiplied by planned 
